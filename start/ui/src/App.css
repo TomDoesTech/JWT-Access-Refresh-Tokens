@@ -1,0 +1,39 @@
+.App {
+  padding: 2rem;
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+.wrapper {
+  background-color: rgb(4, 189, 4);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+
+.wrapper form {
+  display: flex;
+  flex-direction: column;
+}
+
+.wrapper .data {
+  background-color: #ccc;
+  padding: 1rem;
+}
+
+button {
+  padding: 1rem;
+  border: none;
+  background-color: white;
+  margin: 1rem 0;
+  width: 100%;
+}
+
+input{
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+h2{
+  margin: 0;
+}
