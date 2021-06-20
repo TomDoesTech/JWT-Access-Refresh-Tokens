@@ -31,7 +31,7 @@ function App() {
 
   async function getSessionData() {
     axios
-      .get(`http://localhost:4000/api/protected`, {
+      .get(`http://localhost:4000/api/session`, {
         withCredentials: true,
       })
       .then((res) => setSessionData(res.data))
