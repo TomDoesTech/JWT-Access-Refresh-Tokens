@@ -10,6 +10,4 @@
 
 ### 4. How to solve those problems with refresh tokens
 
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=XYjOteYbCMo" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+Video: https://www.youtube.com/watch?v=XYjOteYbCMo
